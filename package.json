@@ -49,11 +49,11 @@
     "express": "~4.16.0",
     "json-rpc2": "~2.0.0",
     "q": "~1.4.1",
-    "ramda": "~0.23.0",
+    "ramda": "~0.27.2",
     "registry-url": "~3.1.0",
     "request-promise": "~2.0.1",
     "semver": "~5.3.0",
-    "unicode-length": "~2.0.0",
+    "unicode-length": "~2.1.0",
     "winston": "~2.2.0"
   },
   "devDependencies": {
