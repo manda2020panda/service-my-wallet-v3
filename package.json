@@ -64,6 +64,6 @@
     "nodemon": "~1.8.1",
     "sinon": "~1.17.3",
     "sinon-chai": "~2.8.0",
-    "standard": "~8.6.0"
+    "standard": "~17.0.0"
   }
 }
