@@ -61,7 +61,7 @@
     "chai-as-promised": "~5.2.0",
     "mocha": "~2.3.4",
     "node-env-file": "~0.1.8",
-    "nodemon": "~1.8.1",
+    "nodemon": "~2.0.20",
     "sinon": "~1.17.3",
     "sinon-chai": "~2.8.0",
     "standard": "~8.6.0"
