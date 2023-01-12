@@ -59,7 +59,7 @@
   "devDependencies": {
     "chai": "~3.4.1",
     "chai-as-promised": "~5.2.0",
-    "mocha": "~2.3.4",
+    "mocha": "~10.2.0",
     "node-env-file": "~0.1.8",
     "nodemon": "~1.8.1",
     "sinon": "~1.17.3",
